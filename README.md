@@ -2,6 +2,8 @@
 Designated for Splunk.
 Doesn't required to genearte the certificate one by one (manually).
 
+1) Create a CA.
+2) Generate Web and Server Certificate as many as you want.
 
 Usage: Generate_SSL.sh
 
@@ -13,6 +15,3 @@ Usage: Generate_SSL.sh
 
   -c <common_name> Common Name. REQUIRED
 
-
-1) Create a CA.
-2) Generate Web and Server Certificate as many as you want.
