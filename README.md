@@ -1,6 +1,6 @@
 # Auto-Generating-SSL-Certificate
 Designated for Splunk.
-Doesn't required to genearte the certificate one by one (manually).
+Doesn't required to generate the certificate one by one (manually).
 
 1) Create a CA.
 2) Generate Web and Server Certificate as many as you want.
