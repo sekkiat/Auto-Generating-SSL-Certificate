@@ -1,8 +1,8 @@
-# Auto-Generating-SSL-Certificate
-Tired of generate the certificate one by one (manually)?
-Here the solution for you!
-You can use thie script to generate the certificate for you.
-It is specially design for Splunk Web and Forwarder encrpytion.
+# SSL Certificate Generation
+Tired of generate the certificate one by one (manually)?<br/>
+Here the solution for you!<br/>
+You can use thie script to generate the certificate for you.<br/>
+It is specially design for Splunk Web and Forwarder encrpytion.<br/>
 
 All certificates will encrypt with AES256 with SHA256.
 
@@ -21,8 +21,8 @@ Usage: Generate_SSL.sh
 
   -zc <no_ca_cert> No Required to Define CA Cert
 
- Certificate Parameters Here  - REQUIRED ALL THE PARAMETERS BELOW IF YOU NOT SPECIFIED YOUR HOSTNAME LIST
-==========================================================================================================
+Certificate Parameters Here  - REQUIRED ALL THE PARAMETERS BELOW IF YOU NOT SPECIFIED YOUR HOSTNAME LIST
+---------------------------------------------------------------------------------------------------------------
 
   -o <organization_name> Organization Name
 
