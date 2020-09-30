@@ -7,7 +7,7 @@ It is specially design for Splunk Web and Forwarder encrpytion. However, if it i
 
 All certificates will encrypt with AES256 with SHA256.
 
-Steps
+## Steps
 
 1) Create a CA.
 2) Generate Web and Server Certificate as many as you want.
@@ -16,7 +16,7 @@ or
 
 1) Specify hostname list using -p options to generate the Web and Server Certificate.
 
-Usage: Generate_SSL.sh 
+## Usage: Generate_SSL.sh 
 ---------------------------------------------------------------------------------------------------------------------
 
   -t <type> [1] CA, [2] Web, [3] Server. REQUIRED. 
