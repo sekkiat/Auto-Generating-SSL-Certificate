@@ -1,8 +1,9 @@
 # SSL Certificate Generation
+
 Tired of generate the certificate one by one (manually)?<br/>
 Here the solution for you!<br/>
-You can use thie script to generate the certificate for you.<br/>
-It is specially design for Splunk Web and Forwarder encrpytion.<br/>
+You can use thie script to generate the certificate.<br/>
+It is specially design for Splunk Web and Forwarder encrpytion. However, if it is able to fit in to your apps, you are welcome to use the script too.<br/>
 
 All certificates will encrypt with AES256 with SHA256.
 
