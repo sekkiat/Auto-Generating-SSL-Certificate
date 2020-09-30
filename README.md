@@ -25,15 +25,15 @@ or
   
         [2] passsword certificate will be remove.
         [3] password certificate will remain.
- 
+ </br>
 
   -n <number> How many SSL certificate you need to generate. </br></br>
   
-  :exclamation: REQUIRED for generate web and server certificate if you not specify the hostname list.
+  :exclamation: REQUIRED for generate web and server certificate if you not specify the hostname list.</br>
 
-  -p <hostname_list> Generate the Certificate based on the hostname in the file. 
+  -p <hostname_list> Generate the Certificate based on the hostname in the file. </br></br>
   
- :exclamation: REQUIRED if you want to generate the certificates based on hostname list
+ :exclamation: REQUIRED if you want to generate the certificates based on hostname list</br>
 
   -zc <no_ca_cert> No Required to Define CA Cert
 
