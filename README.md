@@ -19,15 +19,20 @@ or
 ## Usage: Generate_SSL.sh 
 ---------------------------------------------------------------------------------------------------------------------
 
-  -t <type> [1] CA, [2] Web, [3] Server. REQUIRED. 
+  -t <type> [1] CA, [2] Web, [3] Server. 
   
+        REQUIRED. 
         [2] passsword certificate will be remove.
         [3] password certificate will remain.
  
 
-  -n <number> How many SSL certificate you need to generate. REQUIRED for generate web and server certificate if you not specify hostname list.
+  -n <number> How many SSL certificate you need to generate. 
+  
+        REQUIRED for generate web and server certificate if you not specify hostname list.
 
-  -p <hostname_list> Generate the Certificate based on the hostname in the file. REQUIRED if you want to generate the certificates based on hostname list
+  -p <hostname_list> Generate the Certificate based on the hostname in the file. 
+  
+        REQUIRED if you want to generate the certificates based on hostname list
 
   -zc <no_ca_cert> No Required to Define CA Cert
 
