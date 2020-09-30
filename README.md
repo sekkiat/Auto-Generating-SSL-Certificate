@@ -35,7 +35,7 @@ or
   
  :exclamation: REQUIRED if you want to generate the certificates based on hostname list</br>
 
-  -zc <no_ca_cert> No Required to Define CA Cert
+  -zc <no_ca_cert> No Required to Define CA Cert </br>
 
 ###### Certificate Parameters Here  - REQUIRED TO DEFINE ALL THE PARAMETERS BELOW ######
 ------------------------------------------------------------------------------------------------------------------------------------------------
