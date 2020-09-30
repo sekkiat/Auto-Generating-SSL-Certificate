@@ -31,8 +31,8 @@ Usage: Generate_SSL.sh
 
   -zc <no_ca_cert> No Required to Define CA Cert
 
-<h3> Certificate Parameters Here  - REQUIRED TO DEFINE ALL THE PARAMETERS BELOW </h3>
----------------------------------------------------------------------------------------------------------------
+###### Certificate Parameters Here  - REQUIRED TO DEFINE ALL THE PARAMETERS BELOW ######
+------------------------------------------------------------------------------------------------------------------------------------------------
 
   -o <organization_name> Organization Name
 
