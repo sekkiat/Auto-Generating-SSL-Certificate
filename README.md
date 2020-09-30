@@ -29,13 +29,13 @@ or
 
   -n <number> How many SSL certificate you need to generate. </br></br>
   
-  :exclamation: REQUIRED for generate web and server certificate if you not specify the hostname list.</br>
+  :exclamation: REQUIRED for generate web and server certificate if you not specify the hostname list.</br></br>
 
   -p <hostname_list> Generate the Certificate based on the hostname in the file. </br></br>
   
- :exclamation: REQUIRED if you want to generate the certificates based on hostname list</br>
+ :exclamation: REQUIRED if you want to generate the certificates based on hostname list</br></br>
 
-  -zc <no_ca_cert> No Required to Define CA Cert </br>
+  -zc <no_ca_cert> No required to define CA Certificate </br></br>
 
 ###### Certificate Parameters Here  - REQUIRED TO DEFINE ALL THE PARAMETERS BELOW ######
 ------------------------------------------------------------------------------------------------------------------------------------------------
